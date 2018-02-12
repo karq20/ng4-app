@@ -7,6 +7,7 @@
     {
       "root": "src",
       "outDir": "dist",
+      "deployUrl": "http://localhost:3000/",
       "assets": [
         "assets",
         "favicon.ico"
